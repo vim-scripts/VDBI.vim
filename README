@@ -1,0 +1,26 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4041
+
+This is vim script to manipulate database.
+
+ref: http://mattn.github.com/vdbi-vim/
+
+Source Repository.
+ref: http://github.com/mattn/vdbi-vim
+
+This plugin provides following interfaces.
+
+* Browsing tables
+* Browsing columns
+* Easy operations.
+* Data viewer.
+
+Supported database.
+
+* Oracle
+* SQLite
+* MySQL
+* PostgreSQL
+
+To start VDBI, type ':VDBI'.
+To open query editor, type <leader>s.
+
